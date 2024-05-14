@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7Nora
-- 👀 I’m interested in Java and Angular.
-- 🌱 I’m currently learning Java Spring Boot
+- 👀 I’m interested in C# and Angular.
+- 🌱 I’m currently doing asp.net core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
